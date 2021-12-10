@@ -19,3 +19,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+
+<p align="left">
+<a href="https://github.com/madfauzy">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madfauzy&theme=dark&hide_border=true&layout=compact" alt="madfauzy">
+</a>
+</p>
