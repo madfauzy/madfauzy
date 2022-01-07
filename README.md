@@ -3,7 +3,7 @@
 
 ### 🚀 About Me:
 
-- 🌱 I’m currently learning **Bootstrap 5 and Laravel 8**
+- 🌱 I’m currently learning **Tailwind CSS 3 and Laravel 8**
 - 👨‍💻 All of my projects are available at **[madfauzy.github.io](https://madfauzy.github.io)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
@@ -16,12 +16,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 
 <p align="left">
-<a href="https://github.com/madfauzy">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madfauzy&theme=dark&hide_border=true&layout=compact" alt="madfauzy">
-</a>
+  <a href="https://github.com/madfauzy">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madfauzy&theme=dark&hide_border=true&layout=compact" alt="madfauzy">
+  </a>
 </p>
