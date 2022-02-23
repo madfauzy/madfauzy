@@ -4,7 +4,7 @@
 ### 🚀 About Me:
 
 - 🌱 I’m currently learning **Tailwind CSS 3 and Laravel 8**
-- 👨‍💻 All of my projects are available at **[madfauzy.github.io](https://madfauzy.github.io)**
+- 👨‍💻 All of my projects are available at **[madfauzy.me](https://madfauzy.me)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
 - ⚡ Fun fact: **The first language i learned was C++**
@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
 ![SpnarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=sonarcloud)
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=008FE4)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
