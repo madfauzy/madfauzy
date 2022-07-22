@@ -3,7 +3,7 @@
 
 ### 🚀 About Me:
 
-- 🌱 I’m currently learning **Tailwind CSS 3, CodeIgniter 4, and Laravel 9**
+- 🌱 I'm currently learning **Tailwind CSS 3, CodeIgniter 4, and Laravel 9**
 - 👨‍💻 All of my projects are available at **[madfauzy.me](https://madfauzy.me)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
