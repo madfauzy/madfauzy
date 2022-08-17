@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Back End Developer From Indonesia</h3>
 
 ### 🚀 About Me:
-
 - 🌱 I'm currently learning **Tailwind CSS 3, CodeIgniter 4, and Laravel 9**
 - 👨‍💻 All of my projects are available at **[madfauzy.me](https://madfauzy.me)**
 - 💬 Ask me about **Web Development**
@@ -27,7 +26,9 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 
-<div>
+<a href="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
-</div>
+</a>
