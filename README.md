@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmad Fauzy</h1>
 <h3 align="center">A Passionate Back End Developer From Indonesia</h3>
 
-### 🚀 About Me:
+### 🚀 About Me
+
 - 🌱 I'm currently learning **Tailwind CSS 3, CodeIgniter 4, and Laravel 9**
 - 👨‍💻 All of my projects are available at **[madfauzy.github.io](https://madfauzy.github.io)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
 - ⚡ Fun fact: **The first language i learned was C++**
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
