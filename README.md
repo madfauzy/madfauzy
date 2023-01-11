@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning **Tailwind CSS 3, CodeIgniter 4, and Laravel 9**
+- 🌱 I'm currently learning **CodeIgniter 4 and Laravel 9**
 - 👨‍💻 All of my projects are available at **[madfauzy.github.io](https://madfauzy.github.io)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
@@ -15,7 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
-![SonarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=sonarcloud)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
@@ -23,7 +22,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0868AC)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
