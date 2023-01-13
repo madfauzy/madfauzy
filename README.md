@@ -26,8 +26,10 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 
 <a href="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150"> -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150"> -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
 </a>
