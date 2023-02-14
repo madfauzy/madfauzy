@@ -4,7 +4,7 @@
 ### 🚀 About Me
 
 - 🌱 I'm currently learning **CodeIgniter 4 and Laravel 9**
-- 👨‍💻 All of my projects are available at **[madfauzy.github.io](https://madfauzy.github.io)**
+- 👨‍💻 All of my projects are available at **[madfauzy.tech](https://madfauzy.tech)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
 - ⚡ Fun fact: **The first language i learned was C++**
