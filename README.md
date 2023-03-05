@@ -9,13 +9,12 @@
 - 📫 How to reach me: **madfauzy28@gmail.com**
 - ⚡ Fun fact: **The first language i learned was C++**
 
-### 🛠 Languages and Tools
+### 🛠 Tools and Languages
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=0078D7)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=264DE4)
