@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning **CodeIgniter 4 and Laravel 9**
+- 🌱 I'm currently learning **CodeIgniter 4 and Laravel 10**
 - 👨‍💻 All of my projects are available at **[madfauzy.tech](https://madfauzy.tech)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
@@ -11,17 +11,19 @@
 
 ### 🛠 Languages and Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=0078D7)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=264DE4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 
