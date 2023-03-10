@@ -3,13 +3,13 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning **CodeIgniter 4 and Laravel 10**
+- 🌱 I'm currently learning **Laravel 10 and Node.js**
 - 👨‍💻 All of my projects are available at **[madfauzy.tech](https://madfauzy.tech)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
 - ⚡ Fun fact: **The first language i learned was C++**
 
-### 🛠 Tools and Languages
+### 🛠 Tools, Languages, and Frameworks
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=0078D7)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -21,10 +21,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 <a href="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
