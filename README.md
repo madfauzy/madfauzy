@@ -27,7 +27,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 
 <a href="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
