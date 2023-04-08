@@ -15,6 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=264DE4)
@@ -26,6 +27,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 
 <a href="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
