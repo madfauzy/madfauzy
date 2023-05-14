@@ -14,7 +14,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=0078D7)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
+![Laragon](https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon)
+![Sourcetree](https://img.shields.io/badge/-Sourcetree-05122A?style=flat&logo=sourcetree&logoColor=2684FF)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
