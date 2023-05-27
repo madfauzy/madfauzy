@@ -31,9 +31,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 
-<a href="https://github-readme-stats-madfauzy.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
-  <img src="https://github-readme-stats-madfauzy.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
+<a href="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=madfauzy&theme=discord_old_blurple&hide_border=true" alt="Github Stats" height="150">
 </a>
-<a href="https://github-readme-stats-madfauzy.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true">
-  <img src="https://github-readme-stats-madfauzy.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
 </a>
