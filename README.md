@@ -4,7 +4,7 @@
 ### 🚀 About Me
 
 - 🌱 I'm currently working with **Laravel and Node.js**
-- 👨‍💻 All of my projects are available at **[madfauzy.tech](https://madfauzy.tech)**
+- 👨‍💻 All of my projects are available at **[madfauzy.github.io](https://madfauzy.github.io)**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **madfauzy28@gmail.com**
 - ⚡ Fun fact: **The first language i learned was C++**
