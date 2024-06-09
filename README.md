@@ -37,3 +37,5 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
 </a>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66654df4e724e39e4d3751b4?variant=dark)](https://roadmap.sh)
