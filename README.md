@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Fauzy</h1>
-<h3 align="center">A Passionate Back End Developer From Indonesia</h3>
+
+A passionate back end developer dedicated to transforming ideas into reality through code. Proficient in server-side technologies, databases, and problem-solving. Let's connect and explore the endless possibilities of the digital realm together! 💻✨
 
 ### 🚀 About Me
 
@@ -38,4 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfauzy&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top Languages" height="150">
 </a>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66654df4e724e39e4d3751b4?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66654df4e724e39e4d3751b4?variant=dark)](https://roadmap.sh/u/madfauzy)
