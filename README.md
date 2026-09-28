@@ -12,8 +12,8 @@
 
 ### 🚀 About Me
 
-- 💼 Backend Developer at **Weekend Inc** (PT Alfa Rekacipta Kreasi)
-- 🛠️ Core Tech Stack: **Laravel & Golang**
+- 💼 Backend Developer at **Weekend Inc** (PT Alfa Rekacipta Kreasi) — powering the **AYO Ecosystem**
+- 🛠️ Core Tech Stack: **Laravel, Golang & AWS**
 - 🌐 Live Portfolio & Selected Work: **[madfauzy.com](https://madfauzy.com)**
 - 📬 How to reach me: **[madfauzy28@gmail.com](mailto:madfauzy28@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/madfauzy/)**
 - ⚡ Fun fact: **The first language I learned was C++**
@@ -24,6 +24,6 @@
 
 - **Languages:** Golang, PHP, JavaScript, SQL
 - **Frameworks & Ecosystem:** Laravel, Lumen, Node.js (Express)
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, ECS, RDS), Docker, Linux (Ubuntu), Nginx, Git, CI/CD
 - **Databases & Cache:** MySQL, PostgreSQL, Redis
-- **Infra & DevOps:** Docker, Linux (Ubuntu), Nginx, Git, CI/CD
 - **Architecture & Practices:** Clean Architecture, RESTful API Design, Relational Data Modeling, Query Tuning
