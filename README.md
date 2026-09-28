@@ -24,6 +24,6 @@
 
 - **Languages:** Golang, PHP, JavaScript, SQL
 - **Frameworks & Ecosystem:** Laravel, Lumen, Node.js (Express)
-- **Cloud & DevOps:** AWS (Lambda, API Gateway, ECS, RDS), Docker, Linux (Ubuntu), Nginx, Git, CI/CD
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, ECS, RDS), Docker, Jenkins (CI/CD), Linux (Ubuntu), Nginx, Git
 - **Databases & Cache:** MySQL, PostgreSQL, Redis
 - **Architecture & Practices:** Clean Architecture, RESTful API Design, Relational Data Modeling, Query Tuning
