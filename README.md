@@ -23,7 +23,7 @@
 ### 🛠 Tech Stack & Core Competencies
 
 - **Languages:** Golang, PHP, JavaScript, SQL
-- **Frameworks & Ecosystem:** Laravel, Lumen, Node.js (Express, Hapi)
+- **Frameworks & Ecosystem:** Laravel, Lumen, Node.js (Express)
 - **Databases & Cache:** MySQL, PostgreSQL, Redis
 - **Infra & DevOps:** Docker, Linux (Ubuntu), Nginx, Git, CI/CD
 - **Architecture & Practices:** Clean Architecture, RESTful API Design, Relational Data Modeling, Query Tuning
